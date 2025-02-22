@@ -32,7 +32,7 @@ status = ""
 
 while True:
     try:
-        site = requests.get('https://www.protecytme.com.br/assets/img/logoProtectMe-escudo.png')
+        site = requests.get('https://www.protectme.com.br/assets/img/logoProtectMe-escudo.png')
         #print('ok teste')
     except:
         while cont_erros <= 3:
