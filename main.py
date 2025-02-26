@@ -20,7 +20,7 @@ def envio_mensagem(fone, msg):
 
 
 phone = [11976829298, 11999341281, 11992721900]
-fora = '*Teste monitoramento - SITE FORA DO AR*'
+fora = '*Teste2 monitoramento - SITE FORA DO AR*'
 Site_ok = '*SITE ESTA NO AR NOVAMENTE*'
 monitora = 'monitoramento por 24hs - ok'
 
